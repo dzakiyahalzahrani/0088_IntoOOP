@@ -40,6 +40,9 @@ public:
 
 			cin >> sks;
 	}
+	void output() {
+
+	}
 
 
 
