@@ -25,6 +25,9 @@ private:
 
 	int sks;
 
+public:
+
+
 	
 
 };
