@@ -7,4 +7,7 @@ public: // akses modifer
 	int umur;
 	string jurusan;
 
+	void output() {
+
+	}
 };
