@@ -11,5 +11,10 @@ public:
 	
 	void input() {
 
+		cout << "Masukan Panjangnya =";
+		cin >> panjang;
+		cout << "Masukan Lebarnya =";
+		cin >> Lebar;
+
 	}
 };
