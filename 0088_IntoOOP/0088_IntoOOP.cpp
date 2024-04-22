@@ -38,8 +38,9 @@ public:
 
 			cout << "SKS: ";
 
+			cin >> sks;
 	}
 
-	
+
 
 };
