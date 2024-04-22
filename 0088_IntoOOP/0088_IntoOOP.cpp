@@ -21,6 +21,12 @@ public:
 	}
 
 	void display() {
+		cout << "Panjangnya =" << panjang << endl;
+		cout << "Lebarnya =" << Lebar << endl;
+		cout << "Luasnya = " << hitungLuas() << endl;
 
 	}
 };
+int main() {
+
+}
