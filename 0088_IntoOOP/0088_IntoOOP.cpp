@@ -17,5 +17,8 @@ public: // akses modifer
 };
 
 class Matakuliah {
+private:
+
+	
 
 };
